@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Autenticacion en la tienda" skipped="0" tests="1" time="20.13" timestamp="2021-11-22 09:48:53"><testcase name="autenticacion exitosa"><error message="Not a Map or List type: class java.lang.String" type="cucumber.runtime.CucumberException">Not a Map or List type: class java.lang.String</error><system-err>Not a Map or List type: class java.lang.String&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
